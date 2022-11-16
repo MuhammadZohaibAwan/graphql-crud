@@ -1,2 +1,2 @@
-# graphql-crud
-Crud Operation Using GraphQL
+# graphql
+Basics of graphql 
